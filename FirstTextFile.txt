@@ -1,3 +1,5 @@
 Starting a new text file.
 
 Initializing the class.
+
+Adding another line after the first commit.
